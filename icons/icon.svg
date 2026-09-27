@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="48" x2="440" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7282ff"/>
+      <stop offset=".5" stop-color="#4058e8"/>
+      <stop offset="1" stop-color="#273dc4"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <circle cx="419" cy="91" r="118" fill="#fff" opacity=".08"/>
+  <circle cx="97" cy="446" r="137" fill="#172baf" opacity=".22"/>
+  <!-- Геометрическая буква «Р», читаемая даже на маленьком значке. -->
+  <path d="M166 383V136h112c83 0 128 39 128 108 0 70-49 112-132 112h-42v27Z" fill="#fff"/>
+  <path d="M232 194v104h42c43 0 66-18 66-53 0-34-22-51-65-51Z" fill="#4058e8"/>
+  <rect x="166" y="333" width="66" height="80" rx="33" fill="#fff"/>
+  <circle cx="379" cy="379" r="35" fill="#a7f3d0"/>
+  <path d="m362 380 11 11 23-27" fill="none" stroke="#2446c5" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
